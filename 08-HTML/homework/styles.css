@@ -1,0 +1,54 @@
+body{
+  height: 500px;
+  background-image: url("https://elcomercio.pe/resizer/Fp7eLq3D1Xy2DmUV6Zw-DS79QKo=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NH7ISR6AJVEV3DWCTKV3YW644M.jpg");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+  
+}
+
+.divClass h1{
+    text-align: center;
+    color:blueviolet;
+    font-size: 40px;
+}
+.divClass h3{
+    text-align: center;
+    color:rgb(58, 57, 59);
+    font-size: 40px;
+}
+
+.divClass h4{
+    text-align: center;
+    color:rgb(39, 31, 148);
+    font-size: 40px;
+}
+#thirdDiv ul li img{
+    width: 20px;
+    height: 20px;
+}
+#thirdDiv{
+    position: absolute;
+    top: 60%;
+    left: 43%;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    padding: 50px;
+    justify-content: center;
+    border: 1px black;
+    border-style: solid; 
+    text-align: center;
+}
+.divClass #spanId{
+    font-size: 30px;
+    display: flex;
+    position: absolute;
+    left: 43%;
+    text-align: center;
+    color:rgb(19, 7, 31);
+    
+}
