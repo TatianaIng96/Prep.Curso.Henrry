@@ -1,0 +1,40 @@
+body{
+    /* height: 500px; */
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-fresh-and-natural-green-leaf-household-items-psd-layered-main-picture-image_180798.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-repeat:repeat;
+    background-position: center center;
+    
+  }
+
+.cd1 h1{
+    display: flex;
+    position:absolute;
+    top: 10%;
+    left:48%;
+}
+.cd1 h2{
+    display: flex;
+    position:absolute;
+    left:48%;
+    top: 16%;
+}
+
+.perfil{
+    width: 75%;
+    display: flex;
+    position: absolute;
+    left: 15%;
+    top: 45%;
+    text-align: justify;
+}
+
+.cd2{
+    display: flex;
+    position:absolute;
+    left:30%;
+    top: 8%;
+    width: 200px;
+    height: 200px;
+}
